@@ -32,4 +32,4 @@ $ yarn run test:cov
 ```
 
 ## Environment
-There in .env.example file are variable names, so we can understand we variables we should apply
+There in .env.example file are variable names, so we can understand what variables we should apply
